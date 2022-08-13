@@ -1,16 +1,10 @@
 ### Hi, I am Damandeep Kaur 👋
 
-<!--
-**damank16/damank16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# 💫 About Me:
 - 🔭 I’m currently pursuing Masters in Applied Computer Science from Dalhousie University.
 - 🌱 I’m currently learning ReactJS, NodeJS and Cloud Technologies.
 - 💬 Ask me about Backend development using Java and Spring framework.
 - 😄 Pronouns: She/Her
--->
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/damandeep-kaur-b55997175/) 
